@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<CargoVenta>
+	<CodigoDeVenta></CodigoDeVenta>
+	<Estado></Estado>
+	<CiaSeguros></CiaSeguros>
+	<Poliza></Poliza>
+	<CodigoUnico></CodigoUnico>
+	<FechaVenta></FechaVenta>
+	<Local></Local>
+	<Caja></Caja>
+	<Boleta></Boleta>
+	<RutTitular></RutTitular>
+	<CorrelativoDeCarga></CorrelativoDeCarga>
+	<RutBeneficiario></RutBeneficiario>
+	<RutMedico></RutMedico>
+	<NombreMedico></NombreMedico>
+	<NroProductosBoleta></NroProductosBoleta>
+	<DetalleVenta>
+		<CodigoProducto></CodigoProducto>
+		<NombreProducto></NombreProducto>
+		<TipoProducto></TipoProducto>
+		<UnidadesVendidas></UnidadesVendidas>
+		<PrecioUnitario></PrecioUnitario>
+		<MontoBonificado></MontoBonificado>
+		<MontoDeducible></MontoDeducible>
+		<MontoCopago></MontoCopago>
+	</DetalleVenta>
+</CargoVenta>
